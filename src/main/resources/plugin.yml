@@ -1,0 +1,25 @@
+name: SAOServer
+version: 1.0.0
+main: com.sao.SAOPlugin
+description: Sword Art Online Minecraft Server
+authors: [NuuPaint]
+
+commands:
+  quest:
+    description: Quest command
+  level:
+    description: Check your level
+  guild:
+    description: Guild command
+  arena:
+    description: PvP Arena command
+  dungeon:
+    description: Dungeon command
+  boss:
+    description: Boss fight command
+  equip:
+    description: Equipment command
+  economy:
+    description: Economy command
+  npc:
+    description: NPC command
